@@ -21,7 +21,7 @@
   },
   "dependencies": {
       "connect": "2.7.11",
-      "message-router":"*",
+      "message-router":"*"
   },
   "homepage": "https://github.com/olostan/message-router-web"
 }
